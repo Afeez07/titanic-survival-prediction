@@ -10,7 +10,6 @@ This project analyzes the Titanic dataset to predict passenger survival using lo
 - **Evaluation**: Analyzing accuracy, confusion matrix, and feature importance.
 
 ## 🧠 Technologies Used
-
 - Python
 - Pandas
 - Seaborn & Matplotlib
